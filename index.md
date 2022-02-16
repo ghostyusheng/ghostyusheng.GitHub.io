@@ -6,5 +6,7 @@
 
 #### ALGORITHM
 [Binary search](./algorithm/string/binary_search.md)
-[Searching a letter's first and last position](./algorithm/string/binary_search.md)
+
+[Searching a letter's first and last position](./algorithm/string/search_first_last_letter.md)
+
 [Searching a value in a matrix quickly](./algorithm/matrix/quick_search_exist.md)
