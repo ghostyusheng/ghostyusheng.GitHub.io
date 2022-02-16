@@ -78,3 +78,34 @@ s.translate(pattern)
 OUTPUT:
 "Deer son! I'm going to die, my coffer's code is 8418841. You know how to decrypt!"
 ```
+
+### dict.setdefault
+This function can be used to set a not exist key for a dictionary.
+
+```
+wait_to_eat_animals = [
+    'tom',
+    'jerry',
+    'fox'
+]
+
+animals_already_ate = {
+     'tom': 1,
+     'fox': 1,
+}
+
+### old code
+for animal in wait_to_eat_animals:
+    if animal not in animals_already_ate: # heavy
+        animals_already_ate[animal] = 1
+
+
+### brief code
+for animal in wait_to_eat_animals:
+    animals_already_ate.setdefault(animal, 1)
+
+animals_already_ate
+
+OUTPUT:
+{'tom': 1, 'fox': 1, 'jerry': 1}
+```
