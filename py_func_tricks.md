@@ -63,3 +63,18 @@ OUTPUT:
  {'product': 'keyboard', 'profit': 13},
  {'product': 'shoes', 'profit': 18}]
 ```
+
+### str.maketrans
+We can easily use this function to encrypt secret messages.
+For instance.
+
+```
+ode_letter = "@#$%^&*()"
+code_int = "812384651" 
+pattern = str.maketrans(code_letter, code_int)
+s = "Deer son! I'm going to die, my coffer's code is @&#^@&#. You know how to decrypt!"
+s.translate(pattern)
+
+OUTPUT:
+"Deer son! I'm going to die, my coffer's code is 8418841. You know how to decrypt!"
+```
