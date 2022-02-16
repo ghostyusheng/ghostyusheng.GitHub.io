@@ -1,4 +1,6 @@
-# rfind
+# python function tricks
+
+### rfind
 We all know 'find' is used to index the position of a specific string.
 However, sometimes we need to find the last substring's position of a string.
 If we forget this function, it takes a lot of pain.
