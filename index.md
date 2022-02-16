@@ -1,4 +1,4 @@
-## Welcome to my blog
+## Share wisdom, elevate yourself
 
 ### PYHTON
 [useful function tricks](./py_func_tricks)
