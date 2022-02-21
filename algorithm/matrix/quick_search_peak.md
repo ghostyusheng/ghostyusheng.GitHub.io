@@ -63,3 +63,23 @@ class Solution:
         recursion(NL)
         return TOP[0]
 ```
+
+Solution: O(n)
+```
+default_index = 0
+        find = False
+        L = nums
+        if len(L) == 1:
+            return 0
+        if len(L) == 2:
+            return 0 if L[0] > L[1] else 1
+        for i in range(len(L)-1):
+            if i == 0:
+                continue
+            _n, n, n_ = L[i-1], L[i], L[i+1]
+            if _n < n > n_:
+                find = True
+                return i
+        if not find:
+            return 0 if L[0] > L[len(L)-1] else len(L)-1
+```
