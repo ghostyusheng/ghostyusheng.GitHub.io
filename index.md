@@ -12,3 +12,5 @@
 [Searching a value in a matrix quickly 1](./algorithm/matrix/quick_search_exist.md)
 
 [Searching a value in a matrix quickly 2](./algorithm/matrix/quick_search_exist2.md)
+
+[Searching a peak value in a matrix](./algorithm/matrix/quick_search_peak.md)
