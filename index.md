@@ -16,3 +16,11 @@
 [Searching a peak value in a matrix](./algorithm/matrix/quick_search_peak.md)
 
 [Delete duplicate values in a link list](./algorithm/list/delete_duplicate.md)
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
