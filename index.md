@@ -17,6 +17,7 @@
 
 [Delete duplicate values in a link list](./algorithm/list/delete_duplicate.md)
 
+```js
 <script src="https://utteranc.es/client.js"
         repo="[ENTER REPO HERE]"
         issue-term="pathname"
@@ -24,3 +25,4 @@
         crossorigin="anonymous"
         async>
 </script>
+```
