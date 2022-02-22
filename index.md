@@ -14,3 +14,5 @@
 [Searching a value in a matrix quickly 2](./algorithm/matrix/quick_search_exist2.md)
 
 [Searching a peak value in a matrix](./algorithm/matrix/quick_search_peak.md)
+
+[Delete duplicate values in a link list](./algorithm/list/delete_duplicate.md)
