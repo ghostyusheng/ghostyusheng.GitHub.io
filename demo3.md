@@ -18,5 +18,8 @@
 [Delete duplicate values in a link list](./algorithm/list/delete_duplicate.md)
 
 ---
-layout: comment
+title: My First Page
+layout: default
 ---
+
+...
