@@ -1,12 +1,3 @@
-<script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
-        issue-term="pathname"
-        label="✨💬✨"
-        theme="photon-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
 # python function tricks
 
 ### rfind
