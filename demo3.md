@@ -1,12 +1,3 @@
-<script src="https://utteranc.es/client.js"
-        repo="ghostyusheng/ghostyusheng.GitHub.io"
-        issue-term="pathname"
-        label="✨💬✨"
-        theme="photon-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
 ## Share wisdom, elevate yourself
 [My CN blog](https://blog.csdn.net/ghostyusheng)
 
@@ -26,3 +17,6 @@
 
 [Delete duplicate values in a link list](./algorithm/list/delete_duplicate.md)
 
+---
+layout: comment
+---
